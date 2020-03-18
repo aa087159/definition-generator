@@ -56,7 +56,7 @@ For example, at the entry `seat` in the POS verb:
      * hypernym(superordinate concept) + distinctive features. For example at the entry horse:
      
         *a solid-hoofed **mammal** with a flowing **mane** and tail...* (this is where the difficult words in defining vocabulary comes
-        in handy, a definition allows one to two dificult words in order not to break the definition chain)
+        in handy, a definition allows one to two dificult words in order not to break the definition chain. Here the difficult words are         highlighted)
 
 
 
